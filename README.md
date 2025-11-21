@@ -182,10 +182,5 @@ Processing Failures:
 - Processing: Better processing for different contents in material (ex: audio/pictures)
 - Instead of reading set amount of emails daily, the program works to read all the unread emails up to that point from the previous point.
 
-📄 License
-This project is for educational and personal use. Ensure compliance with Gmail API Terms of Service and Groq API usage policies.
-🤝 Contributing
-Feel free to submit issues, feature requests, or pull requests to improve the automation system.
 
-Need Help? Check the logs in Email_Automation.log or create an issue with your error details.
 
